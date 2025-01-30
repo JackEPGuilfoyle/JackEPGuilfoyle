@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackEPGuilfoyle
-- 👀 I’m interested in Cyber Security, Artificial Intelligence, and Language.
+- 👀 I’m interested in Robotics, Artificial Intelligence, Cyber Security and Language.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on a website or mobile app.
 - 📫 How to reach me: Email: jackguilfoyle@gmail.com
